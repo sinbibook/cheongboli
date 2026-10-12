@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-09T07:48:47.725757413Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-12T03:04:07.278183129Z",
     "templateType": "trip_d",
     "propertyId": "18b201b7-9f91-4913-90f0-bf3fa5f3d499",
     "homepageId": "671fc71b-c0c1-478b-b909-6b012bbc1237"
@@ -29,6 +29,9 @@
     "domain": "cheongboli.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1575849",
     "ybsId": "79175",
+    "tripPropertyId": "10191",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -355,10 +358,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "10191",
-    "partnerType": "distributor_b",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
