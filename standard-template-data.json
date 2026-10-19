@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-10-12T03:04:07.278183129Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-10-19T10:39:07.299901697Z",
     "templateType": "trip_d",
     "propertyId": "18b201b7-9f91-4913-90f0-bf3fa5f3d499",
     "homepageId": "671fc71b-c0c1-478b-b909-6b012bbc1237"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의\n※ 주차 : 객실 당 2대",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의\n※ 주차 : 객실 당 2대\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 12개월 미만 무료이나 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 항아리 바베큐, 장작 아궁이 솥뚜껑 구이\n\n[이용 요금 (1박기준/현장결제)]\n※ 항아리 바베큐 1회 30,000원\n※ 장작 솥뚜껑 구이+아궁이불멍세트 30,000원\n※ 장작 솥뚜껑 구이+고구마세트 40,000원\n※ 장작 솥뚜껑 구이 대형+불멍세트 40,000원\n\n- 이용 시간: ~21:00\n※ 신청: 입실 하루 전\n\n[공용수영장]\n- 운영 계절: 하절기\n※ 하절기 운영예정\n※ ~8/31\n\n[불멍]\n- 이용 장소: 개별 바베큐장\n- 이용 요금: 10,000원 (1박기준/현장결제)\n※ 이용시간: 20시~\n※ 장작 포함(장작 추가 시 5,000원)\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 객실 당 : 2대",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의\n※ 주차 : 객실 당 2대\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 12개월 미만 무료이나 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 항아리 바베큐, 장작 아궁이 솥뚜껑 구이\n\n[이용 요금 (1박기준/현장결제)]\n※ 항아리 바베큐 1회 30,000원\n※ 장작 솥뚜껑 구이+아궁이불멍세트 30,000원\n※ 장작 솥뚜껑 구이+고구마세트 40,000원\n※ 장작 솥뚜껑 구이 대형+불멍세트 40,000원\n\n- 이용 시간: ~21:00\n※ 신청: 입실 하루 전\n\n[공용수영장]\n- 운영 계절: 하절기\n※ 하절기 운영예정\n※ ~8/31\n\n[불멍]\n- 이용 장소: 개별 바베큐장\n- 이용 요금: 10,000원 (1박기준/현장결제)\n※ 이용시간: 20시~\n※ 장작 포함(장작 추가 시 5,000원)\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 객실 당 : 2대",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -68,32 +68,48 @@
     },
     "facilities": [
       {
-        "id": "e0bdac55-0a67-4334-ab33-05db4b5375ed",
-        "name": "공용수영장",
-        "description": "",
-        "usageGuide": "- 운영 계절: 하절기\n※ 하절기 운영예정\n※ ~8/31",
-        "displayOrder": 1,
+        "id": "01a153bd-eb2d-7ce3-85d4-e7d810e019e4",
+        "name": "촌캉스",
+        "description": "바쁘게 흘러가던 일상에서 잠시 벗어나\n자연의 리듬에 맞춰 하루를 보내는 시간입니다.\n특별한 일정 없이도, 머무는 것만으로 충분한 쉼이 완성됩니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
         "images": [
           {
-            "id": "a6b0f33c-db58-4c16-a042-59cc6f839519",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e0bdac55-0a67-4334-ab33-05db4b5375ed/main/1788165324166-dskk1bsxid.jpg",
+            "id": "01a153bd-fb15-75d5-a14d-08153da96811",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153bd-eb2d-7ce3-85d4-e7d810e019e4/main/1792406321196-s4ai5jiamm.webp",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "43cd21b3-76b8-476c-bbb8-0a4180107ca7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e0bdac55-0a67-4334-ab33-05db4b5375ed/main/1788165324167-q7j80r6zhi.jpg",
+            "id": "01a153bd-fa27-7177-b3ab-012a8c4ccbe5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153bd-eb2d-7ce3-85d4-e7d810e019e4/main/1792406321194-ufwi16i9s6.webp",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "acb8667a-ac72-4dda-a630-bd88bdd2a1d5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e0bdac55-0a67-4334-ab33-05db4b5375ed/main/1788165324167-6ohdxah7nh.jpg",
+            "id": "01a153bd-fa27-7567-8100-2439cf626d9b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153bd-eb2d-7ce3-85d4-e7d810e019e4/main/1792406321200-2wzzuczq9d.webp",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153bd-f973-7592-92a0-9619537b9835",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153bd-eb2d-7ce3-85d4-e7d810e019e4/main/1792406321197-6o1w2bx7yb.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153bd-fa20-75c8-9a0e-76969e0503a8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153bd-eb2d-7ce3-85d4-e7d810e019e4/main/1792406321201-lfx52vb5wk.webp",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -105,7 +121,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 항아리 바베큐, 장작 아궁이 솥뚜껑 구이\n\n[이용 요금 (1박기준/현장결제)]\n※ 항아리 바베큐 1회 30,000원\n※ 장작 솥뚜껑 구이+아궁이불멍세트 30,000원\n※ 장작 솥뚜껑 구이+고구마세트 40,000원\n※ 장작 솥뚜껑 구이 대형+불멍세트 40,000원\n\n- 이용 시간: ~21:00\n※ 신청: 입실 하루 전",
-        "displayOrder": 2,
+        "displayOrder": 1,
         "images": [
           {
             "id": "3e1222ab-788f-455c-a974-ebb12dd92951",
@@ -154,7 +170,7 @@
         "name": "불멍",
         "description": "",
         "usageGuide": "- 이용 장소: 개별 바베큐장\n- 이용 요금: 10,000원 (1박기준/현장결제)\n※ 이용시간: 20시~\n※ 장작 포함(장작 추가 시 5,000원)",
-        "displayOrder": 3,
+        "displayOrder": 2,
         "images": [
           {
             "id": "cb04e40a-f1a5-4fdb-b8e4-0e4862cdce86",
@@ -175,6 +191,39 @@
           {
             "id": "636e13e1-28f1-4fa9-b3d9-6a27645cbb1a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d2c6f9cb-cf82-45a8-81cb-757a923e36b8/main/1788165325577-gq2dun736u.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "e0bdac55-0a67-4334-ab33-05db4b5375ed",
+        "name": "공용수영장",
+        "description": "",
+        "usageGuide": "- 운영 계절: 하절기\n※ 하절기 운영예정\n※ ~8/31",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "a6b0f33c-db58-4c16-a042-59cc6f839519",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e0bdac55-0a67-4334-ab33-05db4b5375ed/main/1788165324166-dskk1bsxid.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "43cd21b3-76b8-476c-bbb8-0a4180107ca7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e0bdac55-0a67-4334-ab33-05db4b5375ed/main/1788165324167-q7j80r6zhi.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "acb8667a-ac72-4dda-a630-bd88bdd2a1d5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e0bdac55-0a67-4334-ab33-05db4b5375ed/main/1788165324167-6ohdxah7nh.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -275,7 +324,7 @@
           {
             "id": "57b40e82-f169-4a57-a17a-0cc502708f11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/T0ZueW4dOVJK.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -285,7 +334,7 @@
           {
             "id": "c3f6d6c1-fa57-4692-ab51-a90069b81ea9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/JgAdmEUHGNe9.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -293,7 +342,7 @@
           {
             "id": "fd7501e5-0e8a-4b38-8793-c32ee4c70d43",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/pheSREygXsGZ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -301,7 +350,7 @@
           {
             "id": "076dd4ad-1e65-447d-a9fc-d108e8e04739",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/JU65QL82RxMI.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -309,7 +358,7 @@
           {
             "id": "a2ead1e2-5d88-46ce-a1f8-e126d234d33d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/64ZNgdU0lbek.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -317,7 +366,7 @@
           {
             "id": "77f01200-095b-482e-96ed-99f437367035",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/XFhuUz1VWTeH.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +374,7 @@
           {
             "id": "33e4ff00-03c2-44a7-9f73-e524c3aaf489",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/KSX60zOgrwsC.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,7 +382,7 @@
           {
             "id": "d58ed36b-3d35-4b1e-8aea-bb1b98cf2e56",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/9nclmwG3NkUx.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -341,7 +390,7 @@
           {
             "id": "a1688726-1311-4663-bab9-842bcfd19a8c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/rMPlXSB9ujVy.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,7 +398,7 @@
           {
             "id": "472c2201-c9a3-4bca-9322-0c2a9250c4e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/kmztfV9Yiqo1.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
