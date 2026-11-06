@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-10-20T07:42:13.458152212Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-06T09:30:45.066221344Z",
     "templateType": "trip_d",
     "propertyId": "18b201b7-9f91-4913-90f0-bf3fa5f3d499",
     "homepageId": "671fc71b-c0c1-478b-b909-6b012bbc1237"
@@ -22,8 +22,8 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의\n※ 주차 : 객실 당 2대",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의\n※ 주차 : 객실 당 2대\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 12개월 미만 무료이나 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 항아리 바베큐, 장작 아궁이 솥뚜껑 구이\n\n[이용 요금 (1박기준/현장결제)]\n※ 항아리 바베큐 1회 30,000원\n※ 장작 솥뚜껑 구이+아궁이불멍세트 30,000원\n※ 장작 솥뚜껑 구이+고구마세트 40,000원\n※ 장작 솥뚜껑 구이 대형+불멍세트 40,000원\n\n- 이용 시간: ~21:00\n※ 신청: 입실 하루 전\n\n[공용수영장]\n- 운영 계절: 하절기\n※ 하절기 운영예정\n※ ~8/31\n\n[불멍]\n- 이용 장소: 개별 바베큐장\n- 이용 요금: 10,000원 (1박기준/현장결제)\n※ 이용시간: 20시~\n※ 장작 포함(장작 추가 시 5,000원)\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 객실 당 : 2대",
-    "reservationGuide": "",
+    "usageGuide": "※ 당일 예약 시 유선 문의 후 예약 부탁드립니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 18시 00분\n※ 18시 이후 입실 시 사전 문의\n※ 주차 : 객실 당 2대\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 12개월 미만 무료이나 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 바베큐 형태: 숯불, 항아리 바베큐, 장작 아궁이 솥뚜껑 구이\n\n[이용 요금 (1박기준/현장결제)]\n※ 항아리 바베큐 1회 30,000원\n※ 장작 솥뚜껑 구이+아궁이불멍세트 30,000원\n※ 장작 솥뚜껑 구이+고구마세트 40,000원\n※ 장작 솥뚜껑 구이 대형+불멍세트 40,000원\n\n- 이용 시간: ~21:00\n※ 신청: 입실 하루 전\n\n[공용수영장]\n- 운영 계절: 하절기\n※ 하절기 운영예정\n※ ~8/31\n\n[불멍]\n- 이용 장소: 개별 바베큐장\n- 이용 요금: 10,000원 (1박기준/현장결제)\n※ 이용시간: 20시~\n※ 장작 포함(장작 추가 시 5,000원)\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n[주차장]\n- 객실 당 : 2대",
+    "reservationGuide": "※ 당일 예약 시 유선 문의 후 예약 부탁드립니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "cheongboli.kr",
@@ -33,8 +33,8 @@
     "partnerType": "distributor_b",
     "tripProviderName": "트립일레븐",
     "amenities": [
-      "흡연구역(지정장소)",
-      "주차장"
+      "주차장",
+      "흡연구역(지정장소)"
     ],
     "nearbyAttractions": [ ],
     "services": [ ],
@@ -324,7 +324,7 @@
           {
             "id": "57b40e82-f169-4a57-a17a-0cc502708f11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/T0ZueW4dOVJK.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +334,7 @@
           {
             "id": "c3f6d6c1-fa57-4692-ab51-a90069b81ea9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/JgAdmEUHGNe9.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +342,7 @@
           {
             "id": "fd7501e5-0e8a-4b38-8793-c32ee4c70d43",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/pheSREygXsGZ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +350,7 @@
           {
             "id": "076dd4ad-1e65-447d-a9fc-d108e8e04739",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/JU65QL82RxMI.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +358,7 @@
           {
             "id": "a2ead1e2-5d88-46ce-a1f8-e126d234d33d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/64ZNgdU0lbek.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +366,7 @@
           {
             "id": "77f01200-095b-482e-96ed-99f437367035",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/XFhuUz1VWTeH.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +374,7 @@
           {
             "id": "33e4ff00-03c2-44a7-9f73-e524c3aaf489",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/KSX60zOgrwsC.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -382,7 +382,7 @@
           {
             "id": "d58ed36b-3d35-4b1e-8aea-bb1b98cf2e56",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/9nclmwG3NkUx.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -390,7 +390,7 @@
           {
             "id": "a1688726-1311-4663-bab9-842bcfd19a8c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/rMPlXSB9ujVy.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -398,7 +398,7 @@
           {
             "id": "472c2201-c9a3-4bca-9322-0c2a9250c4e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2025/12/30/kmztfV9Yiqo1.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -447,14 +447,14 @@
         }
       ],
       "amenities": [
-        "단체",
+        "에어컨",
+        "TV",
         "무선인터넷",
         "취사시설/도구",
         "전기밥솥",
-        "에어컨",
         "냉장고",
         "금연",
-        "TV",
+        "단체",
         "남녀공용",
         "욕실용품"
       ],
@@ -480,7 +480,7 @@
         {
           "thumbnail": [
             {
-              "id": "2ffe9ee8-7fa2-4120-b381-f53a352fc83a",
+              "id": "01a19297-17d2-70b5-b464-2284295248bf",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/EkJ2L8S5pYX3.jpg",
               "sortOrder": 1,
               "description": "",
@@ -490,7 +490,7 @@
           ],
           "interior": [
             {
-              "id": "8a997e9a-1bcc-47aa-9410-8ccfc3edfd92",
+              "id": "01a19297-17d2-7174-a8e6-4fe85129b06c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/4USsdDquhcgj.jpg",
               "sortOrder": 2,
               "description": "",
@@ -498,7 +498,7 @@
               "blockId": null
             },
             {
-              "id": "10edd547-7039-451d-b413-363ed51d5c85",
+              "id": "01a19297-17d2-71b3-b904-57527f3aa4bb",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/OHmej9y0N4SY.jpg",
               "sortOrder": 3,
               "description": "",
@@ -506,7 +506,7 @@
               "blockId": null
             },
             {
-              "id": "df8779a7-fe8b-47ce-86e6-312722cbaea8",
+              "id": "01a19297-17d2-7278-8f13-8a5737ae6a0b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/4MaHvoUZwuET.jpg",
               "sortOrder": 4,
               "description": "",
@@ -514,7 +514,7 @@
               "blockId": null
             },
             {
-              "id": "f30885c8-d0bc-49d0-95ef-e8c20f84f63d",
+              "id": "01a19297-17d2-7294-8532-81d832c4ecf9",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/SsyNQEYnxPpH.jpg",
               "sortOrder": 5,
               "description": "",
@@ -522,7 +522,7 @@
               "blockId": null
             },
             {
-              "id": "fb8c1402-28e4-4982-b480-2bed68bdf5b1",
+              "id": "01a19297-17d2-72dc-a7d7-b4da586e74a7",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/jAmUJpTVLR9P.jpg",
               "sortOrder": 6,
               "description": "",
@@ -530,7 +530,7 @@
               "blockId": null
             },
             {
-              "id": "88b7c919-09a8-4d4f-9918-8dc906b5548a",
+              "id": "01a19297-17d2-72fb-be8f-ce3918197538",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/hA9DGJlxifQv.jpg",
               "sortOrder": 7,
               "description": "",
@@ -538,7 +538,7 @@
               "blockId": null
             },
             {
-              "id": "4b1aac02-d376-4ac9-a6a5-5efbccdd0ed9",
+              "id": "01a19297-17d2-7324-8797-c03f7706dc26",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/eOEQKhN6IvRS.jpg",
               "sortOrder": 8,
               "description": "",
@@ -546,7 +546,7 @@
               "blockId": null
             },
             {
-              "id": "d0c0d297-9645-4aa6-9f1e-826070f394d4",
+              "id": "01a19297-17d2-7392-b6e0-976d606152ce",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/VBgA2XqeuFHR.jpg",
               "sortOrder": 9,
               "description": "",
@@ -554,7 +554,7 @@
               "blockId": null
             },
             {
-              "id": "b7ee62b8-9334-410a-8330-b2bd970d31d6",
+              "id": "01a19297-17d2-73e8-ab21-45579eff00a2",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/9pAhiMv7C1Og.jpg",
               "sortOrder": 10,
               "description": "",
@@ -562,7 +562,7 @@
               "blockId": null
             },
             {
-              "id": "741855ed-3a0b-4f0d-bbd5-684953fff5f3",
+              "id": "01a19297-17d2-7406-876f-dda07900e2a8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/hM8ytpYmq3fo.jpg",
               "sortOrder": 11,
               "description": "",
@@ -612,13 +612,13 @@
         }
       ],
       "amenities": [
-        "단체",
+        "에어컨",
+        "TV",
         "취사시설/도구",
         "전기밥솥",
-        "에어컨",
         "냉장고",
         "금연",
-        "TV",
+        "단체",
         "남녀공용",
         "욕실용품"
       ],
@@ -644,7 +644,7 @@
         {
           "thumbnail": [
             {
-              "id": "d99eafb2-1ba4-45bd-b302-53cb7dcd93b9",
+              "id": "01a19297-18f3-7e3f-beac-25eb883ac81e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/oi3aAKPsdph5.jpg",
               "sortOrder": 1,
               "description": "",
@@ -654,7 +654,7 @@
           ],
           "interior": [
             {
-              "id": "ca655405-4afa-4b55-b37d-a961457fe185",
+              "id": "01a19297-18f3-7e99-965e-18735b01711e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/WkS9JarGzRDM.jpg",
               "sortOrder": 2,
               "description": "",
@@ -662,7 +662,7 @@
               "blockId": null
             },
             {
-              "id": "a1d5a302-4fd4-4c65-b19c-26380f7bd5e8",
+              "id": "01a19297-18f3-7eae-81fb-bf32374fd81c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/pgmdRG3WF4Ej.jpg",
               "sortOrder": 3,
               "description": "",
@@ -670,7 +670,7 @@
               "blockId": null
             },
             {
-              "id": "8e652e7e-5e5f-4025-9c09-f867e45cecfc",
+              "id": "01a19297-18f3-7f08-8cd9-096f251a3ba5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/PQNv0gmoSriX.jpg",
               "sortOrder": 4,
               "description": "",
@@ -678,7 +678,7 @@
               "blockId": null
             },
             {
-              "id": "d3da5e26-4608-4396-a276-40d2948c45a4",
+              "id": "01a19297-18f3-7f3a-ac34-93b5f92afc2c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/475EiZxargq3.jpg",
               "sortOrder": 5,
               "description": "",
@@ -686,7 +686,7 @@
               "blockId": null
             },
             {
-              "id": "7fb78385-3f2a-4944-89fc-58154cb50bcf",
+              "id": "01a19297-18f3-7f65-a658-f33c672e0cec",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/udrQ4NUDLS8Y.jpg",
               "sortOrder": 6,
               "description": "",
@@ -694,7 +694,7 @@
               "blockId": null
             },
             {
-              "id": "7203d2e1-db40-4e23-8cee-7b845411aed9",
+              "id": "01a19297-18f3-7fb8-a533-f76c80ded633",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/ycgOkTI1VUaP.jpg",
               "sortOrder": 7,
               "description": "",
@@ -702,7 +702,7 @@
               "blockId": null
             },
             {
-              "id": "74a8dee9-dee5-445c-9d89-7a48e16a0fad",
+              "id": "01a19297-18f3-7fe0-9a2b-ed4c6a585280",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/3xEbFa5Pf0Ss.jpg",
               "sortOrder": 8,
               "description": "",
@@ -710,7 +710,7 @@
               "blockId": null
             },
             {
-              "id": "ca074418-27c7-4e9e-bad6-5be6dad5c002",
+              "id": "01a19297-18f4-701f-ab65-0e21a5b74434",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/a3kmb0fCQles.jpg",
               "sortOrder": 9,
               "description": "",
@@ -718,7 +718,7 @@
               "blockId": null
             },
             {
-              "id": "6e338173-adf4-4c72-baf1-5964385b44c9",
+              "id": "01a19297-18f4-704b-8b51-2f76a4df3952",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/KjLDGniZvO7x.jpg",
               "sortOrder": 10,
               "description": "",
@@ -726,7 +726,7 @@
               "blockId": null
             },
             {
-              "id": "d6138895-2f1d-4d3b-9e25-c7b63fd396f1",
+              "id": "01a19297-18f4-7065-ae63-7b7953125507",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2025/12/30/TUiFOhtlXa3E.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1595,7 +1595,10 @@
           ],
           "nameEn": ""
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
